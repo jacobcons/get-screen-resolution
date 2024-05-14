@@ -1,0 +1,25 @@
+{
+  "name": "get-screen-resolution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/screenshot-desktop": "^1.12.3",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "image-size": "^1.1.1",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
