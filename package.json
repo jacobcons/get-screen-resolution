@@ -8,6 +8,7 @@
     "build": "tsc",
     "start": "node index.js"
   },
+  "repository": "jacobcons/get-screen-resolution",
   "keywords": [],
   "author": "",
   "license": "ISC",

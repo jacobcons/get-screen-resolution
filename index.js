@@ -7,4 +7,3 @@ export async function getResolution() {
     }
     return { width, height };
 }
-console.log(await getResolution());
