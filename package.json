@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "repository": "jacobcons/get-screen-resolution",
-  "keywords": [],
+  "keywords": ["screen", "resolution", "desktop"],
   "author": "",
   "license": "ISC",
   "description": "",
