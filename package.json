@@ -1,6 +1,6 @@
 {
   "name": "get-screen-resolution",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,11 @@
     "start": "node index.js"
   },
   "repository": "jacobcons/get-screen-resolution",
-  "keywords": ["screen", "resolution", "desktop"],
+  "keywords": [
+    "screen",
+    "resolution",
+    "desktop"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
