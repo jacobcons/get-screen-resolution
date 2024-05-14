@@ -19,12 +19,12 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^20.12.12",
-    "@types/screenshot-desktop": "^1.12.3",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5"
   },
   "dependencies": {
     "image-size": "^1.1.1",
-    "screenshot-desktop": "^1.15.0"
+    "screenshot-desktop": "^1.15.0",
+    "@types/screenshot-desktop": "^1.12.3"
   }
 }
