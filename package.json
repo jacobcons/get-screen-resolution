@@ -16,7 +16,7 @@
   ],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Get your screen's resolution",
   "devDependencies": {
     "@types/node": "^20.12.12",
     "prettier": "^3.2.5",
